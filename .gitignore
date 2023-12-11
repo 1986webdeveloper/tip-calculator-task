@@ -1,0 +1,39 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+<<<<<<< HEAD
+# Optional npm cache directory
+.npm
+
+=======
+>>>>>>> 1dec2b3... final changes push
+# Dependency directories
+node_modules/
+jspm_packages/
+
+<<<<<<< HEAD
+# Optional eslint cache
+.eslintcache
+
+package-lock.json
+=======
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+package-lock.json
+>>>>>>> 1dec2b3... final changes push
